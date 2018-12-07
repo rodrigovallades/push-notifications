@@ -12,8 +12,7 @@ class App extends Component {
 			var OneSignal = window.OneSignal || [];
 			OneSignal.push(function() {
 				OneSignal.init({
-					appId: "8a7131ac-893b-4d80-b17d-74ee13cbe031",
-					allowLocalhostAsSecureOrigin: true
+					appId: "6b3c1e5b-5d49-4ad9-9a74-1bb164e8b62a"
 				});
 			});
 		}
